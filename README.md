@@ -1,1 +1,2 @@
 # share
+这里存放着云智慧AIOps社区所有meetup及活动的ppt资料，以供有需要的同学下载
